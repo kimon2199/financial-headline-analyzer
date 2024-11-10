@@ -1,0 +1,5 @@
+pandas
+gradio
+transformers
+huggingface_hub
+python-dotenv
